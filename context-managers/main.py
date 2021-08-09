@@ -1,4 +1,3 @@
-# https://book.pythontips.com/en/latest/context_managers.html
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
